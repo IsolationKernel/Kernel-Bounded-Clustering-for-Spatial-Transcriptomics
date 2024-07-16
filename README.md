@@ -16,9 +16,9 @@
 2. Statistics and Machine Learning Toolbox
 
 # Dataset
-The datasets in the turtorial are already preprocessed, download it from the following link and unzip it to the current directory tutorial/Dataset
+The datasets in the turtorial are already preprocessed, download it from the following link and move it to the current directory tutorial/Dataset
 
-https://drive.google.com/file/d/1xuB_kMPQDfUF__QY9GCpvazO6wAFLrO5/view?usp=drive_link
+https://drive.google.com/drive/folders/1MziiMAcUQeXwX8kvKaYmmoZBkzmohrlH?usp=drive_link
 
 
 and the original dataset can be downloaded from the following link.
